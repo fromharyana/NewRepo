@@ -6,7 +6,7 @@ namespace _4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Фартомет");
+            Console.WriteLine("123");
         }
     }
 }
